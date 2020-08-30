@@ -1,2 +1,2 @@
 # Machine_Learning
-To showcase m knowledge on ML models
+To showcase my knowledge on ML models
